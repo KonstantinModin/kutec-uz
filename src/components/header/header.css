@@ -1,0 +1,30 @@
+nav {
+    min-height: 50px;
+    background-color: #F2F2F2;
+    padding: 14px 0;
+}
+
+.nav {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.nav a{
+    text-transform: uppercase;
+    color: #313F4C;
+    font-width: 400;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 30px;
+    padding: 10px 10px;
+}
+
+.nav-active  {
+    background-color: #DD6226;
+    border-radius: 2px;
+    transition: .3s ease-in-out;
+    color: #fff !important;
+}

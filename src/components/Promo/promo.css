@@ -1,0 +1,44 @@
+.promo__title h1{
+    font-size: 45px;
+    line-height: 53px;
+    text-align: center;
+    color: #FEFCFF;
+}
+
+.promo__title h1 span{
+    color: #DD6226;
+}
+
+.promo__company h2{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FEFCFF;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.promo__flags {
+    width: 300px;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px;
+    margin: 0 auto;
+
+}
+
+.flags-name {
+    width: 110px;
+    height: 110px;
+}
+
+.promo__build h3{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #80C9FF;
+    margin-top: 50px;
+}

@@ -1,0 +1,34 @@
+.page-title {
+    min-height: 88px;
+    padding-top: 20px;
+}
+
+.page-heading {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #313F4C;
+}
+hr {
+    border: 1px solid #E1E1E1;
+    border-bottom: none;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.bread-cramps {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #7E7E7E;
+}
+.bread-cramps a {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #DD6226;
+    text-decoration: none;
+}

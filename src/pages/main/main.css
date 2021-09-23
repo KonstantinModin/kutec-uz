@@ -1,0 +1,26 @@
+.wrapper_content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper_adv {
+    background-color: #F2F2F2;
+}
+
+.wrapper-promo {
+    position: relative;
+}
+
+.promo {
+    position: absolute;
+    width: 870px;
+    height: 454px;
+    top: calc(50% - 227px);
+    left: calc(50% - 435px);
+
+}
+
+.video-main {
+    width: 600px;
+    height: 600px;
+}

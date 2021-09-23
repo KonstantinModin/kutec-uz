@@ -1,0 +1,56 @@
+.our-green-houses {
+    min-height: 675px;
+    background: #fff;
+    padding: 35px 0;
+}
+
+.green-houses-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+
+
+.our-green-houses-title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    text-transform: uppercase;
+    color: #313F4C;
+    text-align: center;
+}
+
+.our-green-houses-column {
+    width: 338px;
+    height: 208px;
+    background: #EBEBEB;
+    border: 1px solid #B7B7B7;
+    box-sizing: border-box;
+    padding: 22px 12px;
+    border-radius: 5px;
+}
+
+.our-green-house-heading {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #313F4C;
+}
+
+.our-green-house-subtitle {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #7E7E7E;
+    margin-top: 14px;
+}
