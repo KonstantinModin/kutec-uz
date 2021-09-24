@@ -62,7 +62,6 @@ function App() {
             })
     }, [setUrl])
 
-
     //useEffect + axios запрос с серваре
     useEffect(async function catalogHandler() {
         await axios.get('https://kutec-bd-default-rtdb.firebaseio.com/base.json')
